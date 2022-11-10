@@ -4,7 +4,7 @@ Service Title
 ##### Description
 Brief description of service
 
-##### Architecture diagram
+##### Deployment diagram
 ()[]
 
 ##### Service endpoints
